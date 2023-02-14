@@ -1,4 +1,5 @@
-# Reading and Evaluating Scholarly Sources
+## Reading and Evaluating Scholarly Sources
+
 
 ## Hello, I'm Micah.
 <img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
@@ -6,6 +7,7 @@
 <a href = "https://go.tufts.edu/saxton" target="_blank">go.tufts.edu/saxton</a> 
 <br> 
 micah.saxton@tufts.edu
+
 
 ## Reading strategies
 
@@ -35,6 +37,7 @@ micah.saxton@tufts.edu
 * **Exhibit**: a source as evidence or examples to analyze.
 * **Argument**: a source to engage its argument.
 * **Method**: a source’s way of analyzing an issue to apply to your own issue.
+
 
 ## Evaluating Scholarship
 
